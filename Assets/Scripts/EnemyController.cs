@@ -24,10 +24,10 @@ public class EnemyController : MonoBehaviour {
 			print("Distance Remaining: " + agent.remainingDistance);
 
 			// Use to create a looping "patrol" behaviour
+			currentDestination++;
+
 			if(currentDestination >= target.Length)
 				currentDestination = 0;
-			else
-				currentDestination++;
 
 			// Use to create a random walkabout behaviour
 			//currentDestination = Random.Range(0,target.Length);
@@ -35,5 +35,4 @@ public class EnemyController : MonoBehaviour {
 			agent.SetDestination(target[currentDestination].position);
 		}
 	}
-
 }
