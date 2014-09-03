@@ -3,10 +3,10 @@ using System.Collections;
 
 public class EnemyController : MonoBehaviour {
 
-	public GameObject seekMe;
+	public Transform target;
 
 	private NavMeshAgent agent;
-	private Vector3 target;
+
 
 	void Start()
 	{
@@ -15,8 +15,8 @@ public class EnemyController : MonoBehaviour {
 	}
 
 	// Update is called once per frame
-	void Update () {
-		target = seekMe.transform.position;
-		agent.SetDestination(target);
+	void Update () 
+	{
+		agent.SetDestination(target.position);
 	}
 }
