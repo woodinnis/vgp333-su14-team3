@@ -3,17 +3,17 @@ using System.Collections;
 
 public class CarCollision : MonoBehaviour {
 
-	private Collision target;
+	//private Collision target;
 
 	//void FixedUpdate()
 	//{
 		
 	//}
 
-	void OnCollisionEnter (Collision collision)
+	void OnTriggerEnter (Collider other)
 	{
-		//target = collision;
-		collision.rigidbody.AddForce (Vector3.back * Time.deltaTime);
+		// dog is hit, knocked away from car
+		other.rigidbody.AddForce (Vector3.back * 3000);
 	}
 
 }
