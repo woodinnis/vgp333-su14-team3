@@ -5,14 +5,15 @@ public class CarCollision : MonoBehaviour {
 
 	private Collision target;
 
-	void FixedUpdate()
-	{
-		target.rigidbody.AddForce (Vector3.back);
-	}
+	//void FixedUpdate()
+	//{
+		
+	//}
 
 	void OnCollisionEnter (Collision collision)
 	{
-		target = collision;
+		//target = collision;
+		collision.rigidbody.AddForce (Vector3.back * Time.deltaTime);
 	}
 
 }
