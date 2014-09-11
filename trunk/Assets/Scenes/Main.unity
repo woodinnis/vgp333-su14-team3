@@ -146,7 +146,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 2
+  m_RootOrder: 20
 --- !u!208 &11166444
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -299,7 +299,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 3
+  m_RootOrder: 21
 --- !u!208 &18648310
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -519,7 +519,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 5
+  m_RootOrder: 23
 --- !u!208 &77449440
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -875,7 +875,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 17
+  m_RootOrder: 10
 --- !u!208 &169650876
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -1180,13 +1180,13 @@ Transform:
   m_PrefabInternal: {fileID: 1880494717}
   m_GameObject: {fileID: 238189704}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 75.2120667, y: 1.44849539, z: 24.1761036}
+  m_LocalPosition: {x: 35.6805878, y: 1.44849539, z: 24.1761036}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 369505436}
   - {fileID: 50466032}
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 2
 --- !u!54 &238189710
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -1274,7 +1274,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 0
+  m_RootOrder: 18
 --- !u!208 &265932980
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -1439,7 +1439,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 6
+  m_RootOrder: 24
 --- !u!208 &272996627
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -1524,7 +1524,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 15
+  m_RootOrder: 8
 --- !u!208 &312233818
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -1636,7 +1636,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 9
+  m_RootOrder: 2
 --- !u!208 &332503607
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -1986,7 +1986,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 1
+  m_RootOrder: 19
 --- !u!208 &427868262
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -2150,7 +2150,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 7
+  m_RootOrder: 0
 --- !u!208 &461554072
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -2448,7 +2448,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 11
+  m_RootOrder: 4
 --- !u!208 &617466056
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -2533,7 +2533,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 4
+  m_RootOrder: 22
 --- !u!208 &623390731
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -2891,7 +2891,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 14
+  m_RootOrder: 7
 --- !u!208 &881465463
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -3214,7 +3214,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 16
+  m_RootOrder: 9
 --- !u!208 &1034809256
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -3463,7 +3463,7 @@ Transform:
   m_Children:
   - {fileID: 1849768832}
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 1
 --- !u!1001 &1062357704
 Prefab:
   m_ObjectHideFlags: 0
@@ -3680,7 +3680,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 22
+  m_RootOrder: 15
 --- !u!208 &1082226906
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -3890,7 +3890,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 18
+  m_RootOrder: 11
 --- !u!208 &1126917851
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -4002,7 +4002,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 13
+  m_RootOrder: 6
 --- !u!208 &1151078230
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -4087,7 +4087,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 24
+  m_RootOrder: 17
 --- !u!208 &1171399005
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -4224,7 +4224,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 20
+  m_RootOrder: 13
 --- !u!208 &1226821645
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -4661,7 +4661,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 8
+  m_RootOrder: 1
 --- !u!208 &1301084909
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -5063,7 +5063,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 23
+  m_RootOrder: 16
 --- !u!208 &1482497874
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -5282,7 +5282,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 19
+  m_RootOrder: 12
 --- !u!208 &1698664855
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -5421,7 +5421,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 21
+  m_RootOrder: 14
 --- !u!208 &1740220845
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -5590,13 +5590,6 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 265932979}
-  - {fileID: 427868261}
-  - {fileID: 11166443}
-  - {fileID: 18648309}
-  - {fileID: 623390730}
-  - {fileID: 77449439}
-  - {fileID: 272996626}
   - {fileID: 461554071}
   - {fileID: 1301084908}
   - {fileID: 332503606}
@@ -5615,6 +5608,13 @@ Transform:
   - {fileID: 1082226905}
   - {fileID: 1482497873}
   - {fileID: 1171399004}
+  - {fileID: 265932979}
+  - {fileID: 427868261}
+  - {fileID: 11166443}
+  - {fileID: 18648309}
+  - {fileID: 623390730}
+  - {fileID: 77449439}
+  - {fileID: 272996626}
   m_Father: {fileID: 0}
   m_RootOrder: 4
 --- !u!1 &1849768828
@@ -5800,7 +5800,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 10
+  m_RootOrder: 3
 --- !u!208 &1863070888
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -5850,7 +5850,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 400002, guid: 9d4133d5d30b644bd87802a347eaccbe, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 75.2120667
+      value: 35.6805878
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 9d4133d5d30b644bd87802a347eaccbe, type: 2}
       propertyPath: m_LocalPosition.y
@@ -5883,6 +5883,10 @@ Prefab:
     - target: {fileID: 5400000, guid: 9d4133d5d30b644bd87802a347eaccbe, type: 2}
       propertyPath: m_IsKinematic
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 9d4133d5d30b644bd87802a347eaccbe, type: 2}
+      propertyPath: m_RootOrder
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 5400000, guid: 9d4133d5d30b644bd87802a347eaccbe, type: 2}
@@ -6078,7 +6082,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 12
+  m_RootOrder: 5
 --- !u!208 &1984949011
 NavMeshObstacle:
   m_ObjectHideFlags: 0
