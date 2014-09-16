@@ -198,7 +198,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 8
+  m_RootOrder: 6
 --- !u!208 &11166444
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -457,7 +457,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 9
+  m_RootOrder: 7
 --- !u!208 &18648310
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -777,7 +777,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 11
+  m_RootOrder: 9
 --- !u!208 &77449440
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -1264,7 +1264,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 23
+  m_RootOrder: 21
 --- !u!208 &169650876
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -1407,7 +1407,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1025661148}
-  m_RootOrder: 7
+  m_RootOrder: 4
 --- !u!1001 &205885724
 Prefab:
   m_ObjectHideFlags: 0
@@ -1794,7 +1794,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 6
+  m_RootOrder: 4
 --- !u!208 &265932980
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -1959,7 +1959,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 12
+  m_RootOrder: 10
 --- !u!208 &272996627
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -1998,7 +1998,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1025661148}
-  m_RootOrder: 15
+  m_RootOrder: 12
 --- !u!1 &312233813
 GameObject:
   m_ObjectHideFlags: 0
@@ -2071,7 +2071,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 21
+  m_RootOrder: 19
 --- !u!208 &312233818
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -2183,7 +2183,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 15
+  m_RootOrder: 13
 --- !u!208 &332503607
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -2637,7 +2637,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 7
+  m_RootOrder: 5
 --- !u!208 &427868262
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -2853,7 +2853,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 13
+  m_RootOrder: 11
 --- !u!208 &461554072
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -2892,7 +2892,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1025661148}
-  m_RootOrder: 18
+  m_RootOrder: 15
 --- !u!1001 &469643417
 Prefab:
   m_ObjectHideFlags: 0
@@ -2971,7 +2971,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1025661148}
-  m_RootOrder: 4
+  m_RootOrder: 1
 --- !u!1 &491273011
 GameObject:
   m_ObjectHideFlags: 0
@@ -3309,7 +3309,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 17
+  m_RootOrder: 15
 --- !u!208 &617466056
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -3394,7 +3394,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 10
+  m_RootOrder: 8
 --- !u!208 &623390731
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -3540,7 +3540,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1025661148}
-  m_RootOrder: 13
+  m_RootOrder: 10
 --- !u!1001 &763983208
 Prefab:
   m_ObjectHideFlags: 0
@@ -3809,7 +3809,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1025661148}
-  m_RootOrder: 8
+  m_RootOrder: 5
 --- !u!1001 &836007298
 Prefab:
   m_ObjectHideFlags: 0
@@ -3888,7 +3888,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1025661148}
-  m_RootOrder: 2
+  m_RootOrder: 23
 --- !u!1 &857129844
 GameObject:
   m_ObjectHideFlags: 0
@@ -4093,7 +4093,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 20
+  m_RootOrder: 18
 --- !u!208 &881465463
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -4187,7 +4187,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1025661148}
-  m_RootOrder: 3
+  m_RootOrder: 0
 --- !u!1001 &946309976
 Prefab:
   m_ObjectHideFlags: 0
@@ -4396,9 +4396,6 @@ Transform:
   m_LocalPosition: {x: 136.978882, y: 0, z: 125.449455}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 1695348599}
-  - {fileID: 1812552711}
-  - {fileID: 854300917}
   - {fileID: 932282675}
   - {fileID: 476191419}
   - {fileID: 1747263823}
@@ -4420,6 +4417,9 @@ Transform:
   - {fileID: 1613901169}
   - {fileID: 1779485820}
   - {fileID: 1326267152}
+  - {fileID: 1695348599}
+  - {fileID: 1812552711}
+  - {fileID: 854300917}
   m_Father: {fileID: 1580163829}
   m_RootOrder: 0
 --- !u!1 &1034809251
@@ -4494,7 +4494,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 22
+  m_RootOrder: 20
 --- !u!208 &1034809256
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -4960,7 +4960,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 3
+  m_RootOrder: 1
 --- !u!208 &1082226906
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -5128,7 +5128,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 24
+  m_RootOrder: 22
 --- !u!208 &1126917851
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -5167,7 +5167,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1025661148}
-  m_RootOrder: 20
+  m_RootOrder: 17
 --- !u!1 &1145042421
 GameObject:
   m_ObjectHideFlags: 0
@@ -5267,7 +5267,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 19
+  m_RootOrder: 17
 --- !u!208 &1151078230
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -5352,7 +5352,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 5
+  m_RootOrder: 3
 --- !u!208 &1171399005
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -5495,7 +5495,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1025661148}
-  m_RootOrder: 11
+  m_RootOrder: 8
 --- !u!1 &1226821640
 GameObject:
   m_ObjectHideFlags: 0
@@ -5568,7 +5568,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 1
+  m_RootOrder: 24
 --- !u!208 &1226821645
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -5843,7 +5843,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1025661148}
-  m_RootOrder: 17
+  m_RootOrder: 14
 --- !u!1 &1295156108
 GameObject:
   m_ObjectHideFlags: 0
@@ -5884,6 +5884,7 @@ GameObject:
   - 23: {fileID: 1295574562}
   - 195: {fileID: 1295574561}
   - 114: {fileID: 1295574560}
+  - 114: {fileID: 1295574566}
   m_Layer: 0
   m_Name: Child
   m_TagString: Untagged
@@ -5983,6 +5984,21 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 7
+--- !u!114 &1295574566
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1295574559}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c13a1c6eb116ba24eb128937671bf51a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveSpeed: 5
+  turnSpeed: 0
+  minIdleTime: 2
+  maxIdleTime: 5
 --- !u!1 &1301084904
 GameObject:
   m_ObjectHideFlags: 0
@@ -6055,7 +6071,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 14
+  m_RootOrder: 12
 --- !u!208 &1301084909
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -6094,7 +6110,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1025661148}
-  m_RootOrder: 23
+  m_RootOrder: 20
 --- !u!1001 &1334834647
 Prefab:
   m_ObjectHideFlags: 0
@@ -6225,7 +6241,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1025661148}
-  m_RootOrder: 9
+  m_RootOrder: 6
 --- !u!1001 &1346673272
 Prefab:
   m_ObjectHideFlags: 0
@@ -6642,7 +6658,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 4
+  m_RootOrder: 2
 --- !u!208 &1482497874
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -6708,7 +6724,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1025661148}
-  m_RootOrder: 14
+  m_RootOrder: 11
 --- !u!1 &1557649982
 GameObject:
   m_ObjectHideFlags: 0
@@ -6762,7 +6778,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1025661148}
-  m_RootOrder: 12
+  m_RootOrder: 9
 --- !u!1 &1580163828
 GameObject:
   m_ObjectHideFlags: 0
@@ -6844,7 +6860,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1025661148}
-  m_RootOrder: 6
+  m_RootOrder: 3
 --- !u!1 &1595484815
 GameObject:
   m_ObjectHideFlags: 0
@@ -6899,7 +6915,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1025661148}
-  m_RootOrder: 16
+  m_RootOrder: 13
 --- !u!1001 &1610208881
 Prefab:
   m_ObjectHideFlags: 0
@@ -6978,7 +6994,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1025661148}
-  m_RootOrder: 21
+  m_RootOrder: 18
 --- !u!1001 &1643566512
 Prefab:
   m_ObjectHideFlags: 0
@@ -7246,7 +7262,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1025661148}
-  m_RootOrder: 0
+  m_RootOrder: 21
 --- !u!1 &1698664850
 GameObject:
   m_ObjectHideFlags: 0
@@ -7319,7 +7335,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 0
+  m_RootOrder: 23
 --- !u!208 &1698664855
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -7510,7 +7526,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 2
+  m_RootOrder: 0
 --- !u!208 &1740220845
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -7549,7 +7565,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1025661148}
-  m_RootOrder: 5
+  m_RootOrder: 2
 --- !u!1 &1753287621
 GameObject:
   m_ObjectHideFlags: 0
@@ -7603,7 +7619,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1025661148}
-  m_RootOrder: 22
+  m_RootOrder: 19
 --- !u!1001 &1788524489
 Prefab:
   m_ObjectHideFlags: 0
@@ -7682,7 +7698,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1025661148}
-  m_RootOrder: 1
+  m_RootOrder: 22
 --- !u!1001 &1831017762
 Prefab:
   m_ObjectHideFlags: 0
@@ -7760,8 +7776,6 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 1698664854}
-  - {fileID: 1226821644}
   - {fileID: 1740220844}
   - {fileID: 1082226905}
   - {fileID: 1482497873}
@@ -7785,6 +7799,8 @@ Transform:
   - {fileID: 1034809255}
   - {fileID: 169650875}
   - {fileID: 1126917850}
+  - {fileID: 1698664854}
+  - {fileID: 1226821644}
   m_Father: {fileID: 0}
   m_RootOrder: 4
 --- !u!1 &1840813831
@@ -7813,7 +7829,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1025661148}
-  m_RootOrder: 10
+  m_RootOrder: 7
 --- !u!1 &1849768828
 GameObject:
   m_ObjectHideFlags: 0
@@ -7997,7 +8013,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 16
+  m_RootOrder: 14
 --- !u!208 &1863070888
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -8279,7 +8295,7 @@ Transform:
   m_LocalScale: {x: 8.90296745, y: 3.04223037, z: 16.2151451}
   m_Children: []
   m_Father: {fileID: 1836463578}
-  m_RootOrder: 18
+  m_RootOrder: 16
 --- !u!208 &1984949011
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -8381,7 +8397,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1025661148}
-  m_RootOrder: 19
+  m_RootOrder: 16
 --- !u!1001 &2019554404
 Prefab:
   m_ObjectHideFlags: 0
