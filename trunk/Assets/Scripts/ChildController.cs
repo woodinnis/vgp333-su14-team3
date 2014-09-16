@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+
 public class ChildController : MonoBehaviour 
 {
 	
@@ -10,11 +11,13 @@ public class ChildController : MonoBehaviour
 		Move,
 		Panic
 	}
-	
+
 	public float moveSpeed;
 	public float turnSpeed;
 	public float minIdleTime;
 	public float maxIdleTime;
+	GameObject player = GameObject.FindGameObjectWithTag("Player");
+
 
 
 	
@@ -66,9 +69,27 @@ public class ChildController : MonoBehaviour
 	private void UpdateMove()
 	{
 		//To Do: Move Child to destination, when arrived change state to idle
+		//rigidbody.AddForce (Vector3, destination);
+		//currentState = State.Idle;
 	}
 	private void UpdatePanic()
 	{
-		
+		if(Playground.instance.navList.Length > 0) 
+		{
+			var closestDistance = Playground.instance.navList[0];
+			var dist = Vector3.Distance(transform.position, Playground.instance.navList[0].transform.position);
+			
+			for(var i=0;i<Playground.instance.navList.Length;i++) 
+			{
+				var tempDist = Vector3.Distance(transform.position, Playground.instance.navList[i].transform.position);
+				if(tempDist < dist) 
+				{
+					closestDistance = Playground.instance.navList[i];
+				}
+			}
+			
+
+		}
 	}
+
 }
